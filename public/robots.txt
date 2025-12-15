@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://indecovietnam.com
+
+# Sitemaps
+Sitemap: https://indecovietnam.com/sitemap.xml
